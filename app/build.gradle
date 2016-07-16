@@ -6,9 +6,9 @@ android {
 
     defaultConfig {
         applicationId "com.by_syk.template"
-        minSdkVersion 14
+        minSdkVersion 8
         targetSdkVersion 23
-        versionCode 16052500
+        versionCode 16071600
         versionName "1.0.0.nightly"
     }
 

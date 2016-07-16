@@ -8,6 +8,6 @@
     <!--<dimen name="padding_title_body_dialog">8dp</dimen>
     <dimen name="padding_content_dialog">8dp</dimen>-->
 
-	<dimen name="unit_padding">8dp</dimen>
+    <dimen name="unit_padding">8dp</dimen>
 
 </resources>

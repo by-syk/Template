@@ -8,7 +8,7 @@ android {
         applicationId "com.by_syk.template"
         minSdkVersion 8
         targetSdkVersion 24
-        versionCode 16073000
+        versionCode 16073001
         versionName "1.0.0.nightly"
     }
 

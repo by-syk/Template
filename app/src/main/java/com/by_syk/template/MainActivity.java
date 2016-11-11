@@ -3,6 +3,10 @@ package com.by_syk.template;
 import android.app.Activity;
 import android.os.Bundle;
 
+/**
+ * Created by By_syk on 2016-07-16.
+ */
+
 public class MainActivity extends Activity {
 
     @Override

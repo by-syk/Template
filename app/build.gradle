@@ -17,6 +17,17 @@ android {
             shrinkResources true
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+//            // 格式化文件名如：com.by_syk.template_v1.0.0(17012500).apk
+//            android.applicationVariants.all { variant ->
+//                variant.outputs.each { output ->
+//                    def outputFile = output.outputFile
+//                    if (outputFile != null) {
+//                        def fileName = "${defaultConfig.applicationId}_v${defaultConfig.versionName}(${defaultConfig.versionCode}).apk"
+//                        output.outputFile = new File((String) outputFile.parent, fileName)
+//                    }
+//                }
+//            }
         }
     }
 

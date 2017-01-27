@@ -49,12 +49,7 @@ dependencies {
 
     //compile 'com.android.support:appcompat-v7:25.1.0'
 
-    //compile(name:'sp-1.0.2', ext:'aar')
     //compile(name:'globaltoast-1.1.2', ext:'aar')
-    //compile(name:'dialogrootview-1.0.2', ext:'aar')
-    //compile(name:'urianalyser-1.0.3', ext:'aar')
-    //compile(name:'aboutmsgrender-1.0.0', ext:'aar')
-    //compile(name:'chinesetraditionalfestivals-1.0.0', ext:'aar')
 
     //compile project(path: ':urianalyser')
 }

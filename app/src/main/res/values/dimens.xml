@@ -23,8 +23,8 @@
 
     <!--<dimen name="padding_title_body_dlg">8dp</dimen>
     <dimen name="padding_content_dlg">8dp</dimen>-->
-    <!--<dimen name="dlg_horz_padding">24dp</dimen>
-    <dimen name="dlg_vertical_padding">20dp</dimen>-->
+    <!--<dimen name="dlg_horz_padding">8dp</dimen>
+    <dimen name="dlg_vertical_padding">8dp</dimen>-->
 
     <dimen name="unit_padding">8dp</dimen>
 

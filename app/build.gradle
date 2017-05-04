@@ -31,23 +31,23 @@ android {
         }
     }
 
-    /*lintOptions {
-        disable 'MissingTranslation'
-    }*/
+//    lintOptions {
+//        disable 'MissingTranslation'
+//    }
 }
 
-/*repositories {
-    flatDir { dirs 'libs' }
-}*/
+//repositories {
+//    flatDir { dirs 'libs' }
+//}
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 
     testCompile 'junit:junit:4.12'
 
-    //compile 'com.android.support:appcompat-v7:25.3.1'
+//    compile 'com.android.support:appcompat-v7:25.3.1'
 
-    //compile(name:'globaltoast-1.1.2', ext:'aar')
+//    compile(name:'globaltoast-1.1.2', ext:'aar')
 
-    //compile project(path: ':urianalyser')
+//    compile project(path: ':urianalyser')
 }

@@ -23,5 +23,7 @@
 
     <!--<dimen name="padding_title_body_dlg">20dp</dimen>
     <dimen name="padding_content_dlg">24dp</dimen>-->
+    <!--<dimen name="dlg_horz_padding">24dp</dimen>
+    <dimen name="dlg_vertical_padding">20dp</dimen>-->
 
 </resources>

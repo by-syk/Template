@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.3"
+    buildToolsVersion "26.0.0"
 
     defaultConfig {
         applicationId "com.by_syk.template"
@@ -50,4 +50,7 @@ dependencies {
 //    compile(name:'globaltoast-1.1.2', ext:'aar')
 
 //    compile project(path: ':urianalyser')
+
+    compile 'com.github.by-syk:SP:1.0.9'
+    compile 'com.github.by-syk:GlobalToast:1.2.2'
 }

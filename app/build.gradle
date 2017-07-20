@@ -47,10 +47,10 @@ dependencies {
 
 //    compile 'com.android.support:appcompat-v7:25.3.1'
 
+//    compile 'com.github.by-syk:SP:1.0.9'
+//    compile 'com.github.by-syk:GlobalToast:1.2.2'
+
 //    compile(name:'globaltoast-1.1.2', ext:'aar')
 
 //    compile project(path: ':urianalyser')
-
-    compile 'com.github.by-syk:SP:1.0.9'
-    compile 'com.github.by-syk:GlobalToast:1.2.2'
 }
